@@ -32,22 +32,22 @@
 .icon-github:before {
   content: "\e900";
   color: #fafbfc;
-  font-size: 48px;
+  font-size: 24;
 }
 .icon-googlescholar:before {
   content: "\e901";
   color: #fafbfc;
-  font-size: 48px;
+  font-size: 24px;
 }
 .icon-x:before {
   content: "\e902";
   color: #fafbfc;
-  font-size: 48px;
+  font-size: 24px;
 }
-.icon-kaskawulsh_coin:before {
+.icon-kaskawulsh_coin_black:before {
 	content: "\e903";
 	color: #fafbfc;
-	font-size: 48px;
+	font-size: 72px;
  }
 
 /*
