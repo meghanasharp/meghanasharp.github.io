@@ -1338,6 +1338,7 @@ input, select, textarea {
 			border: solid 1px #ffffff;
 			border-radius: 100%;
     		align-items: baseline;
+    		justify-content: flex-start;
 		}
 
 			#header .logo .icon:before {
