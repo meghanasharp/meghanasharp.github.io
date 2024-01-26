@@ -1332,14 +1332,12 @@ input, select, textarea {
 			}
 
 		#header .logo {
-			width: 5.5rem;
-			height: 5.5rem;
-			line-height: 5.5rem;
+			width: 10rem;
+			height: 10rem;
+			line-height: 10rem;
 			border: solid 1px #ffffff;
 			border-radius: 100%;
-			display: flex;
     		align-items: stretch;
-    		justify-content: center;
 		}
 
 			#header .logo .icon:before {
