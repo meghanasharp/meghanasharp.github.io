@@ -1332,17 +1332,17 @@ input, select, textarea {
 			}
 
 		#header .logo {
-			width: 50rem;
-			height: 50rem;
-			line-height: 50rem;
+			width: 10rem;
+			height: 10rem;
+			line-height: 10rem;
 			border: solid 1px #ffffff;
 			border-radius: 100%;
     		align-items: baseline;
     		justify-content: flex-start;
 		}
 
-			#header .logo .icon:before {
-				font-size: 2rem;
+			#header .logo .icon-kaskawulsh_coin_black:before {
+				font-size: 5rem;
 			}
 
 		#header .content {
