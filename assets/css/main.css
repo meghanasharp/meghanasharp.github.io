@@ -1336,14 +1336,14 @@ input, select, textarea {
 			height: 5.5rem;
 			line-height: 0rem;
 			border: solid 1px #ffffff;
-			border-radius: 50%;
+			border-radius: 100%;
 			align-content: flex-end;
     		justify-content: flex-start;
 
 		}
 
 			#header .logo .icon-kaskawulsh_coin_black:before {
-				font-size: 5.5rem;
+				font-size: 10.5rem;
 			}
 
 		#header .content {
