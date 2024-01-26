@@ -1337,8 +1337,9 @@ input, select, textarea {
 			line-height: 5.5rem;
 			border: solid 1px #ffffff;
 			border-radius: 100%;
-    		align-items: flex-end;
-    		justify-content: flex-start;
+			align-items: flex-end;
+    		justify-content: space-evenly;
+
 		}
 
 			#header .logo .icon-kaskawulsh_coin_black:before {
