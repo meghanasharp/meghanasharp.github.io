@@ -1333,8 +1333,8 @@ input, select, textarea {
 			}
 
 		#header .logo {
-			width: 5.5rem;
-			height: 5.5rem;
+			width: 10.5rem;
+			height: 10.5rem;
 			line-height: 0rem;
 			border: solid 1px #ffffff;
 			border-radius: 75%;
@@ -1345,7 +1345,7 @@ input, select, textarea {
 		}
 
 			#header .logo .icon-kaskawulsh_coin_black:before {
-				font-size: 5.5rem;
+				font-size: 10.5rem;
 			}
 
 		#header .content {
