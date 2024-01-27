@@ -1188,7 +1188,7 @@ input, select, textarea {
 			-webkit-transition-delay: 0.75s;
 			-ms-transition-delay: 0.75s;
 			transition-delay: 0.75s;
-			background-image: linear-gradient(to top, rgba(0, 0, 0, 0), rgba(1, 1, 1, 0));
+			background-image: linear-gradient(to top, rgba(1, 1, 1, 0.3), rgba(1, 1, 1, 0));
 			background-size: auto
 			background-position: center;
 			background-repeat: no-repeat;
