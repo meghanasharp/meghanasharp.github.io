@@ -1339,7 +1339,7 @@ input, select, textarea {
 			border: solid 1px #ffffff;
 			border-radius: 75%;
 			padding: 0px 0px 0px 0px;
-			align-content: flex-end;
+			align-content: stretch;
     		justify-content: stretch;
 
 		}
