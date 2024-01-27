@@ -1340,7 +1340,7 @@ input, select, textarea {
 			border-radius: 75%;
 			padding: 0px 0px 0px 0px;
 			align-content: stretch;
-    		justify-content: stretch;
+    		justify-content: center;
 
 		}
 
